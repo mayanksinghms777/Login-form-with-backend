@@ -1,0 +1,22 @@
+body{
+    margin: 4%;
+    padding: 0px;
+    background-color: azure;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+   
+}
+h1{
+    color: rgb(53, 50, 4);
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 60px;
+   
+}
